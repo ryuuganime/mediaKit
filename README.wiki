@@ -51,7 +51,7 @@ Ryuuganime is a project which aims into Japanese animation (anime) shows/movie p
 
 == Icons ==
 {|
-!Team Icons
+!colspan="3"|Team Icons
 |-
 ![[file:icon/team_fireRed.svg]]
 ![[file:icon/team_chromiumSilver.svg]]
@@ -63,7 +63,8 @@ Ryuuganime is a project which aims into Japanese animation (anime) shows/movie p
 [[icon/team_chromiumSilver.svg|SVG]]
 |'''Plain White'''<br/>
 [[icon/team_plainWhite.svg|SVG]]
-!Projects
+|-
+!colspan="3"|Projects
 |-
 ![[file:icon/docuwiki_beetrootsPurple.svg]]
 ![[file:icon/instatus_heartRed.svg]]
