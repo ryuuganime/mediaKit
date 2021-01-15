@@ -21,17 +21,18 @@ Ryuuganime is a project which aims into Japanese animation (anime) shows/movie p
 *'''Instagram:''' [https://instagram.com/ryuuganime @ryuuganime]
 *'''Discord:''' [https://discord.gg/RGueZ79 <code>RGueZ79</code>]
 
-= Logo =
+= Assets =
+== Logo ==
 {|class="wikitable"
 !colspan="2"|Primary Logo
 |-
 ![[file:logo/fireRed.svg]]
 ![[file:logo/chromiumSilver.svg]]
 |-
-|Fire Red<br/>
+|'''Fire Red'''<br/>
 ''Used for light mode application(s).''<br/>
 [[logo/fireRed.svg|SVG]]
-|Chromium Silver<br/>
+|'''Chromium Silver'''<br/>
 ''Used for dark mode application(s).''<br/>
 [[logo/chromiumSilver.svg|SVG]]
 |-
@@ -40,10 +41,38 @@ Ryuuganime is a project which aims into Japanese animation (anime) shows/movie p
 ![[file:logo/ashGrey.svg]]
 ![[file:logo/plainWhite.svg]]
 |-
-|Ash Grey<br/>
+|'''Ash Grey'''<br/>
 ''Used for footer which having ligher color than this logo.''<br/>
 [[logo/ashGrey.svg|SVG]]
-|Plain White<br/>
+|'''Plain White'''<br/>
 ''Used for colored backgound.''<br/>
 [[logo/plainWhite.svg|SVG]]
+|}
+
+== Icons ==
+{|
+!Team Icons
+|-
+![[file:icon/team_fireRed.svg]]
+![[file:icon/team_chromiumSilver.svg]]
+![[file:icon/team_plainWhite.svg]]
+|-
+|'''Fire Red'''<br/>
+[[icon/team_fireRed.svg|SVG]]
+|'''Chromium Silver'''<br/>
+[[icon/team_chromiumSilver.svg|SVG]]
+|'''Plain White'''<br/>
+[[icon/team_plainWhite.svg|SVG]]
+!Projects
+|-
+![[file:icon/docuwiki_beetrootsPurple.svg]]
+![[file:icon/instatus_heartRed.svg]]
+![[file:icon/scraper_quartzWhite.svg]]
+|-
+|'''Docuwiki: Beetroots Purple'''<br/>
+[[icon/docuwiki_beetrootsPurple.svg|SVG]]
+|'''Status: Heart Red'''<br/>
+[[icon/instatus_heartRed.svg|SVG]]
+|'''Scraper: Quartz White'''
+[[icon/scraper_quartzWhite.svg|SVG]]
 |}
