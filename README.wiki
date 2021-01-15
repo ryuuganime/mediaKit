@@ -1,0 +1,41 @@
+<h1>Ryuuganime Media Kit</h1>
+🗂 Ryuuganime's Media Kit of Team and Projects.
+
+__TOC__
+
+== Preface ==
+Welcome to Ryuuganime media kit! Feel free to download our brand assets. A lot of work went into them, so we appreciate if you leave them unchanged and looking forward to seeing them all over the web.
+
+== Team Info ==
+Ryuuganime is a project which aims into Japanese animation (anime) shows/movie public database and tracking service. 
+*'''Name:''' Ryuuganime
+*'''Founded in:''' June 2019
+*'''Type:''' Open-sourced of hobby related products
+*'''Office:'''
+**'''Headquarter:''' Lhokseumawe, Aceh, Indonesia
+
+== Contact ==
+*'''Email:''' [mailto:contact@ryuuganime.my.id contact@ryuuganime.my.id]
+*'''Website:''' [https://ryuuganime.my.id https://ryuuganime.my.id]
+*'''GitHub:''' [https://github.com/ryuuganime @ryuuganime]
+*'''Instagram:''' [https://instagram.com/ryuuganime @ryuuganime]
+*'''Discord:''' [https://discord.gg/RGueZ79 <code>RGueZ79</code>]
+
+== Logo ==
+{|class="wikitable"
+!colspan="2"|Primary Logo
+|-
+![[file:logo/fireRed.svg]]
+![[file:logo/ashGrey.svg]]
+|-
+|Fire Red
+
+''Used for light mode applications''
+
+[[logo/fireRed.svg|SVG]]
+|Ash Grey
+
+''Used for dark mode applications''
+
+[[logo/ashGrey.svg]]
+|}
