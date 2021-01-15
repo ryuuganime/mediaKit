@@ -26,16 +26,16 @@ Ryuuganime is a project which aims into Japanese animation (anime) shows/movie p
 !colspan="2"|Primary Logo
 |-
 ![[file:logo/fireRed.svg]]
-![[file:logo/ashGrey.svg]]
+![[file:logo/chromiumSilver.svg]]
 |-
 |Fire Red
 
 ''Used for light mode applications''
 
 [[logo/fireRed.svg|SVG]]
-|Ash Grey
+|Chromium Silver
 
 ''Used for dark mode applications''
 
-[[logo/ashGrey.svg]]
+[[logo/chromiumSilver.svg|SVG]]
 |}
