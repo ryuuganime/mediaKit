@@ -24,7 +24,7 @@ Ryuuganime is a project which aims into Japanese animation (anime) shows/movie p
 = Assets =
 == Logo ==
 {|class="wikitable"
-!colspan="2"|Primary Logo
+!colspan="2"|Primary Color
 |-
 ![[file:logo/fireRed.svg]]
 ![[file:logo/chromiumSilver.svg]]
@@ -36,16 +36,16 @@ Ryuuganime is a project which aims into Japanese animation (anime) shows/movie p
 ''Used for dark mode application(s).''<br/>
 [[logo/chromiumSilver.svg|SVG]]
 |-
-!colspan="2"|Alternative Logo
+!colspan="2"|Alternative Color
 |-
 ![[file:logo/ashGrey.svg]]
 ![[file:logo/plainWhite.svg]]
 |-
 |'''Ash Grey'''<br/>
-''Used for footer which having ligher color than this logo.''<br/>
+''Used for footer which having lighter color compared to this logo color.''<br/>
 [[logo/ashGrey.svg|SVG]]
 |'''Plain White'''<br/>
-''Used for colored backgound.''<br/>
+''Used for colored background.''<br/>
 [[logo/plainWhite.svg|SVG]]
 |}
 
